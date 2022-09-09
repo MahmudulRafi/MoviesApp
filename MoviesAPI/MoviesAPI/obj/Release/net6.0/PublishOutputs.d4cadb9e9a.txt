@@ -1,0 +1,11 @@
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\MoviesAPI.exe
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\MoviesAPI.dll
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\MoviesAPI.deps.json
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\MoviesAPI.runtimeconfig.json
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\MoviesAPI.pdb
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Home Station\Projects\MoviesApp\MoviesAPI\MoviesAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

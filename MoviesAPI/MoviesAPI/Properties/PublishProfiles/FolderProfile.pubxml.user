@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\HelloAPI</_PublishTargetUrl>
+    <History>True|2022-08-15T09:44:36.4080291Z;False|2022-08-15T15:44:12.7243119+06:00;True|2022-08-15T15:37:12.5627250+06:00;False|2022-08-15T15:36:26.3566159+06:00;True|2022-08-15T15:02:09.7261503+06:00;</History>
+  </PropertyGroup>
+</Project>
